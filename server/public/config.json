@@ -1,0 +1,175 @@
+{"book": {
+    "mode" : "onfly",
+    "Home" : {
+        "logoUrl": "img/logo.png",
+        "phrase1": "Hey my name is, ",
+        "phraseName": "Alachbili Mohamed",
+        "phrase 2": "and I am a ",
+        "qualifcations": [
+            "fullstack web developer", 
+            "UX / UI Designer", 
+            "project Manager", 
+            "hobbiest maker" 
+        ],
+        "buttonName": "view more"
+    },
+    "about" : {
+        "photoPerso": "img/perso/perso.jpg",
+        "bigTitle": "",
+        "smalltile": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "linkText": "",
+        "weblove": [
+            {
+                "title": "Fast",
+                "logoWeb": "icons/icons-fast.png",
+                "paraf": "Fast load times and lag free interaction, my highest priority"},
+            {
+                "title": "Rich",
+                "logoWeb": "icons/icons-rich.png",
+                "paraf": "Modern web is fundamuntal to maximum rich interactivity for the user experience "},
+            {
+                "title": "Intuitive",
+                "logoWeb": "icons/icons-intuitive.png", 
+                "paraf": "Strong preference for intuitive and animated UX/UI"},
+            {
+                "title": "Dynamic",
+                "logoWeb": "icons/icons-dynamic.png",
+                "paraf": "Website don't have to be static. I love making pages come to life"},
+            {
+                "title": "Reponsive",
+                "logoWeb": "icons/icons-reponsive.png", 
+                "paraf": "My Layouts will work on any device, big or small"
+            }
+        ],
+        "skills": [
+            {
+                "title" : "React",
+                "percentage" : 80,
+                "tags": [
+                    {
+                        "name": "Redux",
+                        "logo": ""
+                    },
+                    {
+                        "name": "React-router",
+                        "logo": ""
+                    },
+                    {
+                        "name": "create-react-app",
+                        "logo": ""
+                    }
+                ]
+            },
+            {
+                "title" : "CSS SASS",
+                "percentage" : 80,
+                "tags": [
+                    {
+                        "name": "HTML5",
+                        "logo": ""
+                    },
+                    {
+                        "name": "CSS 3",
+                        "logo": ""
+                    },
+                    {
+                        "name": "SASS",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Flexbox Grid KeyFraming MediaQueries",
+                        "logo": ""
+                    }
+                ]
+            },
+            {
+                "title" : "Node js",
+                "percentage" : 70,
+                "tags": [
+                    {
+                        "name": "Express",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Axios",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Mongoose",
+                        "logo": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "projects": {
+
+    },
+    "hobby": {
+
+    },
+    "contact": {
+
+    },
+    "blog" : [
+        {
+            "code": 1, 
+            "categorie":"REACT", 
+            "title":"Make react stick", 
+            "date":"May 20, 2018",
+            "paragraph":"Learning react an make it stick, it's hard...",
+            "imgUrlSmall":"img/blog/article1/react1-small.jpg",
+            "imgUrlMedium":"img/blog/article1/react1-medium.jpg",
+            "imgUrlBig":"img/blog/article1/react1-big.jpg",
+            "articleLink":"http://www.medium.com/article?=1"
+        },
+        {
+            "code": 2, 
+            "categorie":"React", 
+            "title":"React Relay GraphQL", 
+            "date":"May 12, 2018",
+            "paragraph":"Next Step to Learning...",
+            "imgUrlSmall":"img/blog/article1/react2-small.jpg",
+            "imgUrlMedium":"img/blog/article1/react2-medium.jpg",
+            "imgUrlBig":"img/blog/article1/react2-big.jpg",
+            "articleLink":"http://www.medium.com/article?=DSFZD1"
+        },
+        {
+            "code": 3, 
+            "categorie":"Javascript", 
+            "title":"ES5 vs ES6", 
+            "date":"May 1, 2018",
+            "paragraph":"Really big difference between ES5 and ES6...",
+            "imgUrlSmall":"img/blog/article1/react1-small.jpg",
+            "imgUrlMedium":"img/blog/article1/react1-medium.jpg",
+            "imgUrlBig":"img/blog/article1/react1-big.jpg",
+            "articleLink":"http://www.medium.com/article?=1"
+        },
+        {
+            "code": 4, 
+            "categorie":"Javascript", 
+            "title":"Make react stick", 
+            "date":"May 19, 2018",
+            "paragraph":"Role playing gamification javascript",
+            "imgUrlSmall":"img/blog/article1/react1-small.jpg",
+            "imgUrlMedium":"img/blog/article1/react1-medium.jpg",
+            "imgUrlBig":"img/blog/article1/react1-big.jpg",
+            "articleLink":"http://www.medium.com/article?=1"
+        },
+        {
+            "code": 5, 
+            "categorie":"Javascript", 
+            "title":"Javascript master", 
+            "date":"May 18, 2018",
+            "paragraph":"To be a jac-vascript master",
+            "imgUrlSmall":"img/blog/article1/react1-small.jpg",
+            "imgUrlMedium":"img/blog/article1/react1-medium.jpg",
+            "imgUrlBig":"img/blog/article1/react1-big.jpg",
+            "articleLink":"http://www.medium.com/article?=1"
+        }
+    ]
+}}
